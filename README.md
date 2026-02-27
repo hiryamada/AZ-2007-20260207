@@ -1,3 +1,3 @@
 # AZ-2007-20260207
 
-このリポジトリではPythonのサンプルコードを開発します
+We develop Python sample code in this repository.
